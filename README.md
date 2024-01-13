@@ -28,4 +28,4 @@ Data_velib, qui doit contenir deux sous repertoires :
 
 Data_complementaires:
 
-Voir le fichier notes.txt qui se trouve dedans
+Repertoire a telecharger sur le git. Voir le fichier notes.txt qui se trouve dedans.
