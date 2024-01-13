@@ -14,7 +14,9 @@ STRUCTURE DES FICHIERS :
 Il faut creer un repertoire 'Data', qui lui même contient un repertoire Data_velib et un repertoire Data_complemetaires:
 
 Data_velib, qui doit contenir deux sous repertoires :
+
 1 - Data_velib_raw : contient les données bruts fournit par Lepont
+
 2 - Data_velib_traitées : la ou vont être stockés les resultats de 'Profiling_et_traitement_data'
 
 
