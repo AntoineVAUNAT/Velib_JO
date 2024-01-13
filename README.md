@@ -20,6 +20,8 @@ Data_velib, qui doit contenir deux sous repertoires :
 2 - Data_velib_traitées : la ou vont être stockés les resultats de 'Profiling_et_traitement_data'
 
 
+
 Data_complementaires:
+
 Voir le fichier notes.txt qui se trouve 
 
