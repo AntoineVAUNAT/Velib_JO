@@ -23,5 +23,4 @@ Data_velib, qui doit contenir deux sous repertoires :
 
 Data_complementaires:
 
-Voir le fichier notes.txt qui se trouve 
-
+Voir le fichier notes.txt qui se trouve dedans
