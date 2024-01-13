@@ -9,7 +9,12 @@ Prise en compte des considérations géographiques par le biais de géopandas
 
 
 
-STRUCTURE DES FICHIERS : 
+
+
+
+
+
+STRUCTURE DE l'ARboRESCENCE DES REpERToireS : 
 
 Il faut creer un repertoire 'Data', qui lui même contient un repertoire Data_velib et un repertoire Data_complemetaires:
 
