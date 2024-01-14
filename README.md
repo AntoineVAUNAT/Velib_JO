@@ -17,6 +17,8 @@ Commencer par appliquer profilling_et_traitement_data sur les données bruts fou
 
 Lors de l'utilisation du code analyse_temporelle, verifier dans la fonction lecture_data_temp que la liste L contient bien les mêmes noms de fichier que dans votre repertoire. 
 
+Les noms des csv doivent etre au format suivant : mois en 3 lettres majuscules en anglais, suivi d'un '_', et de l'année en 4 chiffres
+
 STRUCTURE DE l'ARboRESCENCE DES REpERToireS : 
 
 Il faut creer un repertoire 'Data', qui lui même contient un repertoire Data_velib et un repertoire Data_complemetaires:
