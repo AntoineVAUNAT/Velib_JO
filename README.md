@@ -13,6 +13,9 @@ Prise en compte des considérations géographiques par le biais de géopandas
 
   
 
+Commencer par appliquer profilling_et_traitement_data sur les données bruts fournit par LePont!
+
+Lors de l'utilisation du code analyse_temporelle, verifier dans la fonction lecture_data_temp que la liste L contient bien les mêmes noms de fichier que dans votre repertoire. 
 
 STRUCTURE DE l'ARboRESCENCE DES REpERToireS : 
 
